@@ -1,1 +1,5 @@
-# can_i_eat_this_mushroom
+# Can I Eat This Mushroom
+
+Try it. Type this into the terminal:
+
+```python3 mushrooms.py```
